@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TronEffect_F_MobileMOD 2
+  m_Shader: {fileID: -6465566751694194690, guid: 84256ed586c6df943b1640e2afefff07,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_AD10636D:
+        m_Texture: {fileID: 2800000, guid: 8f0075e363ceb1f46af1767d34c637f9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_25F8F02D: {r: 16.319353, g: 43.37245, b: 13.707331, a: 0}
+    - Color_D43F8FA7: {r: 0.3973706, g: 0.8867924, b: 0.27189392, a: 0}
+    - Vector2_79ADA566: {r: 12, g: 205, b: 0, a: 0}
+    - Vector2_A307964: {r: 0.5, g: 0, b: 0, a: 0}
+    - Vector2_D4DA35F0: {r: 0, g: 0.1, b: 0, a: 0}
+    - Vector2_EF27D288: {r: 13, g: 1, b: 0, a: 0}

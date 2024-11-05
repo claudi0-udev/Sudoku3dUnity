@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShaderGraphs_WaterToonNLMOD
+  m_Shader: {fileID: -6465566751694194690, guid: 82491aacc948e29489c4ecc81904d848,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_10FDB2D0: 0.03
+    - Vector1_242770FE: 0.42
+    - Vector1_2AB8B3C3: 3.69
+    - Vector1_4729B339: 0.5
+    - Vector1_5956A709: 8.25
+    - Vector1_6024493: 0.07
+    - Vector1_947BCF1B: 1.45
+    - Vector1_B041949C: 0.9
+    - Vector1_D6BBAE70: 2.5
+    m_Colors:
+    - Color_42041449: {r: 0.42568934, g: 1.8832309, b: 1.9201307, a: 0.011764706}
+    - Color_7B04B5C7: {r: 0.33551717, g: 1.7335054, b: 4.193965, a: 0.05490196}
+    - Color_E501CA51: {r: 0.737, g: 1, b: 1, a: 0.043137256}
